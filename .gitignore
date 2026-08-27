@@ -1,0 +1,6 @@
+# 本地配置
+rule.conf.bak
+rule.conf
+
+# macOS
+.DS_Store
